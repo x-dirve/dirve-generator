@@ -1,0 +1,22 @@
+{
+  "name": "dirve-generator",
+  "version": "0.1.0",
+  "description": "Scaffold out a dirve project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-dirve/dirve-generator.git"
+  },
+  "main": "app/index.js",
+  "keywords": [
+    "dirve",
+    "scaffold",
+    "generator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "2.0.5",
+    "semver": "~2.3.0",
+    "debug": "~1.0.2",
+    "rimraf": "~2.2.8"
+  }
+}
